@@ -3,7 +3,7 @@ Allow the reassigning of voices to other voices. This means that any voice or vo
 
 Powered by the MHW Audio Modding Tool (wwiseutil)
 
-You can download it's latest version ...
+You can download it's latest version in the Releases: https://github.com/ItsBurpee/MHWVoiceChanger/releases
 
 ## How to Use:
 1. Load the .nbnk file with the "Load File" button (It should auto-detect its information in the "Overview")
